@@ -125,7 +125,7 @@ var SEMICOLON = SEMICOLON || {};
 						clearInterval( pluginLinkingInterval );
 					}
 					return plugFn;
-				}(), 1000);
+				}(), 10);
 			} else {
 				pluginActive = true;
 			}
@@ -2238,6 +2238,7 @@ var SEMICOLON = SEMICOLON || {};
 	$(document).ready( SEMICOLON.documentOnReady.init );
 
 	$window.on( 'load', SEMICOLON.documentOnLoad.init );
+	SEMICOLON.documentOnLoad.init();
 
 	$window.on( 'resize', function() {
 		let thisWindow = $(this);
