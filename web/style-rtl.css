@@ -30,6 +30,11 @@ body {
 	border-left: 0;
 }
 
+.portfolio, 
+.product-rating {
+	direction:ltr;
+}
+
 .top-links-item:first-child,
 .top-links-sub-menu .top-links-item {
 	border-right: 0 !important;
