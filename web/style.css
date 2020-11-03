@@ -149,7 +149,7 @@ dl, dt, dd, ol, ul, li {
 body {
 	line-height: 1.5;
 	color: #555;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Amiri', sans-serif;
 }
 
 a {
@@ -247,7 +247,7 @@ table,
 fieldset,
 form { margin-bottom: 30px; }
 
-small { font-family: 'Lato', sans-serif; }
+small { font-family: 'Amiri', sans-serif; }
 
 
 @media (max-width: 1200px) {
@@ -396,9 +396,9 @@ span.middot {
 
 .nolineheight { line-height: 0 !important; }
 
-.font-body { font-family: 'Lato', sans-serif; }
+.font-body { font-family: 'Amiri', sans-serif; }
 
-.font-primary { font-family: 'Poppins', sans-serif; }
+.font-primary { font-family: 'Lalezar', sans-serif; }
 
 .font-secondary { font-family: 'PT Serif', serif; }
 
@@ -3347,7 +3347,7 @@ html[xmlns] .slider-wrap {
 
 #logo a {
 	color: #000;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	font-size: 36px;
 }
 
@@ -3563,7 +3563,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 	font-size: 0.8125rem;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'lalezar', sans-serif;
 }
 
 .menu-link span {
@@ -3607,7 +3607,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 	font-weight: 400;
 	color: #666;
 	letter-spacing: 0;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Amiri', sans-serif;
 }
 
 .sub-menu-container .menu-item:hover > .menu-link {
@@ -4054,7 +4054,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 	.mega-menu-style-2 .mega-menu-title > .menu-link {
 		font-size: 0.8125rem;
 		font-weight: 700;
-		font-family: 'Poppins', sans-serif;
+		font-family: 'Lalezar', sans-serif;
 		letter-spacing: 1px;
 		text-transform: uppercase !important;
 		margin-bottom: 15px;
@@ -4802,7 +4802,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 	color: #333;
 	font-weight: 700;
 	margin-top: 0 !important;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	letter-spacing: 2px;
 }
 
@@ -7615,7 +7615,7 @@ body:not(.device-touch) .portfolio {
 	padding: 30px 0;
 	text-align: center;
 	color: #444;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 1.5rem;
@@ -7792,7 +7792,7 @@ body:not(.device-touch) .entry-link {
 	font-weight: bold;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 }
 
 @media (min-width: 992px) {
@@ -8104,7 +8104,7 @@ div.alignright {
 .wp-caption {
 	text-align: center;
 	margin: 10px 20px 13px 20px;
-	font-family: 'Lato', Georgia, "Times New Roman", Times, serif;
+	font-family: 'Amiri', Georgia, "Times New Roman", Times, serif;
 	font-style: italic;
 }
 
@@ -8845,7 +8845,7 @@ body:not(.device-touch) .button {
 	font-size: 1.25rem;
 	height: auto;
 	line-height: 1;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 }
 
 .button.button-desc span {
@@ -9551,7 +9551,7 @@ body:not(.device-touch) .button.button-full strong {
 .fbox-content h3 {
 	font-size: 1rem;
 	font-weight: 600;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 0;
 	color: #333;
@@ -9839,7 +9839,7 @@ body:not(.device-touch) .button.button-full strong {
 
 .fbox-center.fbox-italic p {
 	font-style: italic;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Amiri', sans-serif;
 }
 
 
@@ -11216,7 +11216,7 @@ body:not(.device-touch) .social-icon i {
 .tab-nav-lg li a {
 	display: inline-block;
 	color: #444;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	font-size: 13px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -12107,7 +12107,7 @@ body:not(.device-touch) .clients-grid .grid-item a {
 .counter {
 	font-size: 42px;
 	font-weight: 600;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 }
 
 .counter.counter-small { font-size: 28px; }
@@ -12236,7 +12236,7 @@ body:not(.device-touch) .rounded-skill {
 
 .skills li .progress-percent .counter {
 	font-weight: 400;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Amiri', sans-serif;
 }
 
 .progress-percent::after, .progress-percent::before {
@@ -12996,7 +12996,7 @@ label {
 	display: inline-block;
 	font-size: 13px;
 	font-weight: 700;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	color: #555;
@@ -14438,7 +14438,7 @@ body:not(.device-touch) .tagcloud a {
 .widget-filter-links li a {
 	display: block;
 	color: #444;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 	font-weight: 500;
 }
 
@@ -14493,7 +14493,7 @@ body:not(.device-touch) .tagcloud a {
 	font-size: 13px;
 	font-weight: 700;
 	letter-spacing: 2px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 }
 
 .nav-tree li i {
@@ -14526,7 +14526,7 @@ body:not(.device-touch) .tagcloud a {
 	font-size: 12px;
 	padding: 6px 0;
 	letter-spacing: 1px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Amiri', sans-serif;
 }
 
 .nav-tree ul ul a i.icon-angle-down { font-size: 12px; }
@@ -14547,7 +14547,7 @@ body:not(.device-touch) .tagcloud a {
 	line-height: 1;
 	font-size: 80px;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lalezar', sans-serif;
 }
 
 .wedding-head .first-name,
