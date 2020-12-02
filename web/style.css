@@ -109,15 +109,7 @@ dl, dt, dd, ol, ul, li {
 	padding: 0;
 }
 
-.clear {
-	clear: both;
-	display: block;
-	font-size: 0px;
-	height: 0px;
-	line-height: 0;
-	width: 100%;
-	overflow:hidden;
-}
+
 
 ::selection {
 	background: #445574;
@@ -16266,6 +16258,11 @@ label.checkbox { padding-left: 20px; }
 	-webkit-transform: translate3d(0, 0, 0);
 	transform: translate3d(0, 0, 0);
 	}
+}
+
+.icon-star32 {
+	background-image: url("./img/icons/search.png") !important;
+	background-color: red;
 }
 
 @keyframes fadeInDownSmall {
