@@ -2,8 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://pwastore.ir/</loc>
-    <lastmod>2020-12-02</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://pwastore.ir/img/logo.png</image:loc>
+        <image:title>Tartanak Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/img/logo@2x.png</image:loc>
+        <image:title>Tartanak Logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/dominos-icon.png</image:loc>
+        <image:title>Dominoes</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/divar-icon.png</image:loc>
+        <image:title>دیوار</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/snappfood-icon.png</image:loc>
+        <image:title>اسنپ فود</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/buskool-icon.png</image:loc>
+        <image:title>باسکول</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/time-icon.png</image:loc>
+        <image:title>Time.ir</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/snapp-icon.png</image:loc>
+        <image:title>Snapp</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/tehranman-icon.png</image:loc>
+        <image:title>تهران من</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/2048-icon.png</image:loc>
+        <image:title>2048 Game</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/digikala-icon.png</image:loc>
+        <image:title>دیجیکالا</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/snake-icon.png</image:loc>
+        <image:title>Snake Game</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/tetra-icon.png</image:loc>
+        <image:title>Tetra Game</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/tower-icon.png</image:loc>
+        <image:title>Tower Game</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/post-icon.png</image:loc>
+        <image:title>پستخونه</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/img/footer-logo.png</image:loc>
+        <image:title>Tartanak</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://pwastore.ir/index.html</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://pwastore.ir/img/logo.png</image:loc>
@@ -14,109 +84,55 @@
         <image:title>Tartanak Logo</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/snappfood/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/dominos-icon.png</image:loc>
+        <image:title>Dominoes</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/divar-icon.png</image:loc>
+        <image:title>دیوار</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://pwastore.ir/products/snappfood-icon.png</image:loc>
         <image:title>اسنپ فود</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/buskool/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/buskool-icon.png</image:loc>
         <image:title>باسکول</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/time/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/time-icon.png</image:loc>
         <image:title>Time.ir</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/snapp/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/snapp-icon.png</image:loc>
         <image:title>Snapp</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/tehranman/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/tehranman-icon.png</image:loc>
         <image:title>تهران من</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/2048/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/2048-icon.png</image:loc>
         <image:title>2048 Game</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/digikala/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/digikala-icon.png</image:loc>
         <image:title>دیجیکالا</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/snake/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/snake-icon.png</image:loc>
         <image:title>Snake Game</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/tetra/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/tetra-icon.png</image:loc>
         <image:title>Tetra Game</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/tower/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/tower-icon.png</image:loc>
         <image:title>Tower Game</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://pwastore.ir/products/post/icon.png</image:loc>
-        <image:title>پستخونه</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/img/footer-logo.png</image:loc>
-        <image:title>Tartanak</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://pwastore.ir/index.html</loc>
-    <lastmod>2020-12-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://pwastore.ir/img/logo.png</image:loc>
-        <image:title>Tartanak Logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/img/logo@2x.png</image:loc>
-        <image:title>Tartanak Logo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/snappfood/icon.png</image:loc>
-        <image:title>اسنپ فود</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/buskool/icon.png</image:loc>
-        <image:title>باسکول</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/time/icon.png</image:loc>
-        <image:title>Time.ir</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/snapp/icon.png</image:loc>
-        <image:title>Snapp</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/tehranman/icon.png</image:loc>
-        <image:title>تهران من</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/2048/icon.png</image:loc>
-        <image:title>2048 Game</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/digikala/icon.png</image:loc>
-        <image:title>دیجیکالا</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/snake/icon.png</image:loc>
-        <image:title>Snake Game</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/tetra/icon.png</image:loc>
-        <image:title>Tetra Game</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/tower/icon.png</image:loc>
-        <image:title>Tower Game</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://pwastore.ir/products/post/icon.png</image:loc>
+        <image:loc>https://pwastore.ir/products/post-icon.png</image:loc>
         <image:title>پستخونه</image:title>
       </image:image>
       <image:image>
