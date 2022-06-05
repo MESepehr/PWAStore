@@ -2,8 +2,7 @@
 
 @font-face {
 	font-family: 'font-icons';
-	src:url('fonts/font-icons.woff') format('woff'),
-		url('fonts/font-icons.ttf') format('truetype');
+	src:url('fonts/font-icons.woff2') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -241,15 +240,15 @@
 	content: "\ea11";
 }
 .icon-star3:before {
-	content: "\E658";
+	content: "\e6c1";
 }
 
 .icon-star-half-full:before {
-	content: "\EB8D";
+	content: "\e7c1";
 }
 
 .icon-star-empty:before {
-	content: "\ECB3";
+	content: "\e6c2";
 }
 .icon-angle-up:before {
 	content: "\E99B";
